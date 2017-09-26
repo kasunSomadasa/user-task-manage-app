@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BusySms</string>
+    <string name="title_activity_calendar_home">CalendarHomeActivity</string>
 </resources>

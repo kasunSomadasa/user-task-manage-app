@@ -85,6 +85,15 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.kasun.busysms.home" />
         </activity>
+        <activity
+            android:name=".taskCalendar.CalendarHomeActivity"
+            android:label="@string/title_activity_calendar_home"
+            android:parentActivityName=".home"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kasun.busysms.home" />
+        </activity>
     </application>
 
 </manifest>
